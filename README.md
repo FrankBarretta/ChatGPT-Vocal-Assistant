@@ -1,6 +1,6 @@
 # Amazing-WinGPT
 
-Assistente Vocale da terminale che usa l'api di ChatGPT, basta avviare il main.py con python e si potrà scambiare messaggi tra l'utente e chatgpt, anche vocalmente.
+Assistente Vocale da terminale che usa l'API di ChatGPT, basta avviare il main.py con python e si potrà scambiare messaggi testuali o/e vocali tra l'utente e ChatGPT.
 
 Modificando il file config si può : 
 
